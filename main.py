@@ -5,7 +5,7 @@ from pygame.locals import *
 import sys
 import math
 import random
-os.chdir("/Users/sophi/Documents/COLLEGE/Fall 2019/COMPSCI/hackGT")
+# os.chdir("/Users/sophi/Documents/COLLEGE/Fall 2019/COMPSCI/hackGT")
 # Initialize Python
 pygame.init()
 # Create canvas variable named window
